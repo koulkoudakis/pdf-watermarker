@@ -1,4 +1,4 @@
-Pdf Watermarker
+# Pdf Watermarker
 
 Simple script adds predetermined watermark to .pdf file
 Name: pdf watermarker
