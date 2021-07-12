@@ -1,9 +1,10 @@
 # Pdf Watermarker
 
-Simple script adds predetermined watermark to .pdf file
-
 ## Version: 
 0.1.0
+
+## Description:
+Simple script adds predetermined watermark to .pdf file
 
 ## Author:
 Sharome Burton
