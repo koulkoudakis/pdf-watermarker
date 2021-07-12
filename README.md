@@ -2,14 +2,14 @@
 
 Simple script adds predetermined watermark to .pdf file
 
-Name: pdf watermarker
+## Version: 
+0.1.0
 
-Version: 0.1.0
+## Author:
+Sharome Burton
 
-Description: Simple script adds predetermined watermark to .pdf file
+## Repository:
+https://github.com/koulkoudakis/pdf-watermarker
 
-Author: Sharome Burton
-
-Repository: https://github.com/koulkoudakis/pdf-watermarker
-
-Repl: https://replit.com/@Koulkoudakis/pdf-watermarker#main.py
+## Repl:
+https://replit.com/@Koulkoudakis/pdf-watermarker#main.py
